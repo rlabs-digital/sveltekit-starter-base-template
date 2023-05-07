@@ -26,7 +26,7 @@ This is a SvelteKit starter template for building web-apps that comes with:
 - `build`: Build the app
 - `preview`: Preview the built app
 - `check`: Run svelte-check and TypeScript compiler
-- `check`:watch: Run check script in watch mode
+- `check:watch`: Run check script in watch mode
 - `test:e2e`: Run Playwright tests
 - `test:unit`: Run vitest unit tests
 - `test:unit:once`: Run test:unit once
