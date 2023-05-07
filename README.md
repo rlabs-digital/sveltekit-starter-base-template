@@ -81,4 +81,4 @@ Please make sure to update tests as appropriate.
 Everything you need to build a Svelte project.
 
 ## Licence
-[MIT](https://github.com/rlabs-digital/sveltekit-starter-base-template/blob/main/LICENSE.md)
+[MIT](https://github.com/rlabs-digital/sveltekit-starter-base-template/blob/main/LICENSE)
